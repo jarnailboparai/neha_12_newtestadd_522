@@ -6,7 +6,7 @@
 
         id        = "hellosoem.test.com"
 
-        version   = "2.0.0">
+        version   = "3.1.0">
 
     <name>newtestadd</name>
 
@@ -38,13 +38,13 @@
 
     <preference name="target-device"    value="universal" />
 
-    <preference name="fullscreen"       value="false" />
+    <preference name="fullscreen"       value="true" />
 
 
 
     <icon src="1394624843__60523643_bankier.jpg" />
 
-    <gap:splash src="splash.png" />
+    <gap:splash src="1394624843__60523643_bankier.jpg" />
 
    
 
@@ -102,7 +102,7 @@
 
     <gap:platform name="android" />
 
-    <gap:plugin name="com.phonegap.plugins.pushplugin" />
+    
 
 
 
